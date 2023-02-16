@@ -21,5 +21,5 @@ public class User implements Serializable {
 
     private String userAddress;
     
-    private string userTele;
+    private String userTele;
 }
